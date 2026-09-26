@@ -3,6 +3,10 @@ name: kuaishou-kol-discovery
 description: 基于快手的实时数据，通过自然语言检索快手上的达人。支持按关键词、点赞数等方向筛选，并查看达人的作品及作品表现数据、互动数据、评论内容等，分析达人画像、内容特点、活跃表现和近期作品等，帮助用户快速发现和判断适合合作的达人。支持三大能力：(1) 关键词搜索视频，可按点赞数、发布时间、视频时长筛选排序；(2) 达人作品抓取，按主页链接获取公开作品列表；(3) 视频评论分析，按视频链接获取评论内容与互动数据。
 license: MIT
 version: 1.0.0
+display_name: 🎯快手达人发现与洞察
+display_name_en: KuaiShou KOL Discovery and Insights
+description_zh: 基于快手的实时数据，通过自然语言检索快手上的达人。支持按关键词、点赞数等方向筛选，并查看达人的作品及作品表现数据、互动数据、评论内容等，分析达人画像、内容特点、活跃表现和近期作品等，帮助用户快速发现和判断适合合作的达人。
+description_en: Retrieve creators on KuaiShou via natural language search based on real-time KuaiShou data. Filter by keywords, likes and other metrics, and view creators’ posts along with post performance data, engagement metrics, and comment content. Analyze creator personas, content characteristics, activity status and recent works to help users quickly discover and evaluate creators suitable for collaboration.
 metadata:
   type: command
   runtime: "nodejs@16.14.0+"
